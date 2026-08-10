@@ -35,3 +35,5 @@ A lightweight C-based CLI application for managing and persisting student record
   * **Dynamic Array Resizing (`realloc`)**: Dynamically doubling array capacity in memory when reading unknown file sizes.
   * **Memory Cleanup (`free`)**: Releasing allocated heap memory before reallocating or exiting to prevent memory leaks.
   * **Pointer Type Casting**: Explicit pointer casting `(int *)` when reading or writing directly to `enum` types via address references.
+ 
+ Although the list provided above is AI generated (I'm too lazy to manually list everything), the code is **mostly** written by me, used some AI along with external resources to learn totally new concepts.
