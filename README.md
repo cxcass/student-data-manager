@@ -1,7 +1,7 @@
 # Student Data Manager
 A lightweight C-based CLI application for managing and persisting student records using binary file I/O
 
-## Concepts used to make this project
+### Concepts used to make this project
 * **Primitive Data Types & Utility Functions**
   * **Primitive Types**: Standard usage of `int`, `float`, `char` arrays (strings), and `bool` (via `<stdbool.h>`).
   * **Standard Utility Functions**: Case conversion via `tolower()` from `<ctype.h>`.
